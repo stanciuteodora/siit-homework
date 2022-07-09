@@ -15,6 +15,7 @@ public class Main {
         Book book4 = new ArtAlbum(4, "Album 1", 80, "Recycled paper");
         Book book5 = new ArtAlbum(5, "Album 2", 30, "Recycled paper");
 
+
         LibraryCatalog catalog = new LibraryCatalog(100);
         catalog.add(book1);
         catalog.add(book2);

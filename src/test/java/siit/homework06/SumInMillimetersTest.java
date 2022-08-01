@@ -1,8 +1,7 @@
-package homework06;
+package siit.homework06;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import siit.homework06.SumInMillimeters;
 
 public class SumInMillimetersTest {
     /**

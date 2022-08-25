@@ -1,0 +1,26 @@
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Diana', lastName='Taurasi', dateOfBirth=1982-06-11, gender='F', id='White Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Kobe', lastName='Bryant', dateOfBirth=1978-07-25, gender='M', id='Black Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Dirk', lastName='Nowitzki', dateOfBirth=1978-06-18, gender='m', id='Dirk Diggler'}
+2022-08-14 21:14:31 INFO Deleting student: null
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Diana', lastName='Taurasi', dateOfBirth=1982-06-11, gender='F', id='White Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Kobe', lastName='Bryant', dateOfBirth=1978-07-25, gender='M', id='Black Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Dirk', lastName='Nowitzki', dateOfBirth=1978-06-18, gender='m', id='Dirk Diggler'}
+2022-08-14 21:14:31 INFO Deleting student: Student {firstName='Diana', lastName='Taurasi', dateOfBirth=1982-06-11, gender='F', id='White Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Diana', lastName='Taurasi', dateOfBirth=1982-06-11, gender='F', id='White Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Kobe', lastName='Bryant', dateOfBirth=1978-07-25, gender='M', id='Black Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Dirk', lastName='Nowitzki', dateOfBirth=1978-06-18, gender='m', id='Dirk Diggler'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Diana', lastName='Taurasi', dateOfBirth=1982-06-11, gender='F', id='White Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Kobe', lastName='Bryant', dateOfBirth=1978-07-25, gender='M', id='Black Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Dirk', lastName='Nowitzki', dateOfBirth=1978-06-18, gender='m', id='Dirk Diggler'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Diana', lastName='Taurasi', dateOfBirth=1982-06-11, gender='F', id='White Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Diana', lastName='Taurasi', dateOfBirth=1982-06-11, gender='F', id='White Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Kobe', lastName='Bryant', dateOfBirth=1978-07-25, gender='M', id='Black Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Dirk', lastName='Nowitzki', dateOfBirth=1978-06-18, gender='m', id='Dirk Diggler'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Diana', lastName='Taurasi', dateOfBirth=1982-06-11, gender='F', id='White Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Diana', lastName='Taurasi', dateOfBirth=1982-06-11, gender='F', id='White Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Kobe', lastName='Bryant', dateOfBirth=1978-07-25, gender='M', id='Black Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Dirk', lastName='Nowitzki', dateOfBirth=1978-06-18, gender='m', id='Dirk Diggler'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Diana', lastName='Taurasi', dateOfBirth=1982-06-11, gender='F', id='White Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Kobe', lastName='Bryant', dateOfBirth=1978-07-25, gender='M', id='Black Mamba'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Dirk', lastName='Nowitzki', dateOfBirth=1978-06-18, gender='m', id='Dirk Diggler'}
+2022-08-14 21:14:31 INFO Adding student: Student {firstName='Diana', lastName='Taurasi', dateOfBirth=1982-06-11, gender='F', id='White Mamba'}

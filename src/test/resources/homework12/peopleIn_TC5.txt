@@ -1,0 +1,4 @@
+Kobe,Bryant,1978,6,25
+Dirk,Nowitzki,1978,6,18
+Shaquille,O'Neal,1972,6,6
+Diana,Taurasi,1982,6,11
